@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/meridius", {data:[{}],fetch:{},mutations:void 0});
